@@ -4,9 +4,10 @@
 Lưu ý bài phân tích và nhận định cần chú ý áp dụng kỹ năng viết đã học - đảm bảo ngắn gọn, súc tích, tập trung vào vấn đề chính.
 
 Bài tập làm theo nhóm.
+# 
 
 Nhóm: N007
   - Lê Trần Duy Sang -17520973
   - Trần Minh Phát - 17520882
   - Lê Cao Hưng - 17520539
-
+# 
