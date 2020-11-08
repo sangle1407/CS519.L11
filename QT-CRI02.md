@@ -1,4 +1,4 @@
-# QT-CRI02: SEMINAR SHTT
+# QT-CRI02: CÁC RÀO CẢN CỦA TƯ DUY PHẢN BIỆN
 Hãy cho biết các rào cản của tư duy phản biện (ví dụ tham khảo https://www.youtube.com/watch?v=KAaV37un26Q) và hãy cho một ví dụ về một trong các rào cản trên.
 
 Bài tập làm theo nhóm.
