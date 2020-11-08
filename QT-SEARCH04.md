@@ -10,6 +10,7 @@ Nhóm: N007
   - Lê Cao Hưng - 17520539
 #
 Research Area: Computer Vision.
+
 Danh sách các hội nghị và tạp chí của research area Computer Vision:
   - ACL - Annual Meeting of the Association for Computational Linguistics.
   - EMNLP - Empirical Methods in Natural Language Processing.
